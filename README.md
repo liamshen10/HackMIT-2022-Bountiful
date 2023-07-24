@@ -1,4 +1,4 @@
-Bountiful_hackMIT2022
+**Bountiful_hackMIT2022**
 ![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/1700ed83-b53b-44f8-adb7-7290d84c92e3)
 Bountiful is a game that encourages generosity, thoughtful thinking, and cooperation featuring the "bounty" system, an extensible game framework incentivizing active game development and donations to local charities.
 
@@ -14,7 +14,9 @@ The “Bounty” System: -A poll is set for possible features to be added to the
 
 *Similar in concept/design to Kickstarter’s stretch goal system
 
-Game_1 Game_2 Game_3
+![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/374d05bf-c98e-481f-b078-52de3cb2ec36)
+![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/a9a74675-b1f8-43fc-b2fe-ffe4b51973c2)
+![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/e8bd76e1-2be2-4843-9c30-2285b2c3ea1e)
 
 Included in this repository is a ZIP file of the functioning game mockup (mouse and keyboard only!), as well as presentation materials, Bountiful's logo and a title page.
 
