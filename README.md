@@ -1,6 +1,5 @@
 Bountiful_hackMIT2022
-Title Page
-
+![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/1700ed83-b53b-44f8-adb7-7290d84c92e3)
 Bountiful is a game that encourages generosity, thoughtful thinking, and cooperation featuring the "bounty" system, an extensible game framework incentivizing active game development and donations to local charities.
 
 *Players can utilize in-game virtual currency to fund projects -Active polling for new features
