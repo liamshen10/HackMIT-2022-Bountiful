@@ -23,4 +23,6 @@ A website mockup is available for preview here:
 
 https://www.figma.com/proto/1llHrs1PQ38XN0K1QVYPRH/Bountiful?node-id=123%3A173&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=123%3A173
 
-Made by Lucas Dunker, Luca Sandoval, Vidyut Ramanan, and Liam Shen for hackMIT 2022. Bountiful_logo
+Made by Lucas Dunker, Luca Sandoval, Vidyut Ramanan, and Liam Shen for hackMIT 2022.
+![image](https://github.com/liamshen10/HackMIT-2022-Bountiful/assets/107076001/08840a71-ffad-4788-be65-33017c9f6f0f)
+
